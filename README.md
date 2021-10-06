@@ -13,6 +13,7 @@ Zbiór linków.
 * Fancy Border Radius - https://9elements.github.io/fancy-border-radius/
 * CSS clip-path maker - https://bennettfeely.com/clippy/
 * Get Waves - https://getwaves.io/
+* Blob Maker - https://www.blobmaker.app/
 
 ## ikony i zdjęcia
 * Fontawesome - https://fontawesome.com/
