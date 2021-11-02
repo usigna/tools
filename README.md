@@ -8,12 +8,24 @@ Zbiór linków.
 
 ## gradienty
 * CSS Gradient - https://cssgradient.io/
+* * SVG Gradient Wave Generator - https://www.outpan.com/app/9aaaf27303/svg-gradient-wave-generator
 
 ## kształty
 * Fancy Border Radius - https://9elements.github.io/fancy-border-radius/
 * CSS clip-path maker - https://bennettfeely.com/clippy/
 * Get Waves - https://getwaves.io/
 * Blob Maker - https://www.blobmaker.app/
+* Squircley - https://squircley.app/
+* SVG Shapes - https://www.softr.io/tools/svg-shape-generator
+* Blobs - https://blobs.app/
+* Wavelry - https://wavelry.vercel.app/
+* SVG Waves - https://www.softr.io/tools/svg-wave-generator
+* SVG Waves - https://svgwave.in/
+* Haikei - https://app.haikei.app/
+* SVG Waves - https://www.svgwaves.io/
+
+## wykresy
+* Pie Charts - https://chartgen.frederickallen.co/pie.html
 
 ## ikony i zdjęcia
 * Fontawesome - https://fontawesome.com/
