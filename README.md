@@ -8,7 +8,7 @@ Zbiór linków.
 
 ## gradienty
 * CSS Gradient - https://cssgradient.io/
-* * SVG Gradient Wave Generator - https://www.outpan.com/app/9aaaf27303/svg-gradient-wave-generator
+* SVG Gradient Wave Generator - https://www.outpan.com/app/9aaaf27303/svg-gradient-wave-generator
 
 ## kształty
 * Fancy Border Radius - https://9elements.github.io/fancy-border-radius/
@@ -48,6 +48,9 @@ Zbiór linków.
 ## narzędzia ułatwiające tworzenie stron pod różne przeglądarki
 * Autoprefixer - https://autoprefixer.github.io/
 * Can I use - https://caniuse.com/
+
+## formularze
+* JavaScript Input Mask - https://imask.js.org/
 
 ## produktywność
 * Toggl - https://toggl.com/
