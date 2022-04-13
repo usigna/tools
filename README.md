@@ -22,12 +22,6 @@ Zbiór przydatnych narzędzi i linków dotyczących projektowania oraz kodowania
 * Chrome Vox (wtyczka dla przeglądarki Chrome) - https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=pl
 * NVDA (darmowy czytnik ekranowy dla systemu operacyjnego Microsoft Windows) - https://www.nvda.pl/
 
-### wtyczki dla WordPress
-* WP Accessibility Helper (WAH)
-* WP Accessibility
-* SOGO Accessibility
-* Divi Accessibility
-
 ### pozostałe narzędzia
 * Accessibility Insights for Web (wtyczka dla przeglądarki Chrome, która pozwala między innymi na łatwiejsze śledzenie ścieżki poruszania się po stronie za pomocą tabulatora) - https://accessibilityinsights.io/docs/en/web/overview/
 
