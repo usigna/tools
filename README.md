@@ -4,6 +4,7 @@ Zbiór przydatnych narzędzi i linków dotyczących projektowania oraz kodowania
 ## :man_in_manual_wheelchair: Web Accessibility
 ### walidatory
 * Lighthouse - jest "wbudowany" w przeglądarkę Chrome
+* ANDI - https://lepszyweb.pl/andi/help/install.html
 * TAD - https://tad.lepszyweb.pl/
 * WAVE Web Accessibility Evaluation Tool - https://wave.webaim.org/
 * Markup Validation Service (walidator kodu HTML) - https://validator.w3.org/
